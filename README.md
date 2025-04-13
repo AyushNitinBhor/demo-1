@@ -1,2 +1,3 @@
 # demo-1
-this is my first githu demo
+this is my first github demo
+author ayush bhor
